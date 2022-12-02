@@ -1,9 +1,6 @@
 # Introduction
 Hello and thank you for stopping by! My name is Edward, and I am a student doing my bachelors in computer science at UC Davis. I genuinely love programming and getting better at it every day, so there's a lot of stuff I get up to.
 
-# Hobbies
-I like playing the piano 🎹, lifting 🏋️‍♂️ , boxing 🥊, or reading 📖 in my spare time. For employers on this page, this means I've read "Clean Code" by Bob Martin and "The Pragmatic Programmer" by Andy Hunt and Dave Thomas.
-
 # Recent Project
 My most recent project was a website for a local gym, which you can find here:  💪[Iron Arms Gym](https://www.ironarmsgym.com/)💪
 
