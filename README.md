@@ -1,8 +1,8 @@
 # Introduction
-Hello and thank you for stopping by! My name is Edward, and I am a student doing my bachelors in computer science at UC Davis. I genuinely love programming and getting better at it every day, so there's a lot of stuff I get up to.
+Hello there! My name is Edward, and I am a recent computer science graduate from UC Davis. My passion lies in software engineering and organizational leadership. Most of my projects are done for learning purposes, and you can see some of them (that I can show) on this page!
 
-# Recent Project
-My most recent project was a website for a local gym, which you can find here:  💪[Iron Arms Gym](https://www.ironarmsgym.com/)💪
+# Recent Projects
+My most recent personal project was a website for a local gym, which you can find here:  💪[Iron Arms Gym](https://www.ironarmsgym.com/)💪
 
 # Project Demos
 Here are links to some of my smaller web dev project demos.
