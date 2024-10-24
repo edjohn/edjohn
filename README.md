@@ -8,7 +8,7 @@ I also happen to enjoy teaching software engineering to others. You can find som
 # Current Work
 I am currently working on bringing a social app startup idea to life. Sign up for updates on that here: https://wavesocial.framer.ai/
 
-# Solo Project Demos
+# Project Demos
 Here are links to some of my solo web dev project demos.
 - [Gym Website](https://www.ironarmsgym.com/)
 - [Google Search Mockup](https://www.youtube.com/watch?v=S8hx2Vrcra4)
