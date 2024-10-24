@@ -1,8 +1,12 @@
 # Introduction
-Hello there! My name is Edward, and I am a recent computer science graduate from UC Davis. My passion lies in software engineering and organizational leadership. Most of my projects are done for learning purposes, and you can see some of them (that I can show) on this page!
+My name is Edward, and I am a recent computer science graduate from UC Davis. My passion lies in software engineering and entrepreneurship. 
 
-# Recent Projects
-My most recent personal project was a website for a local gym, which you can find here:  💪[Iron Arms Gym](https://www.ironarmsgym.com/)💪
+My most significant work has been done for clients, which I cannot disclose publicly here but can provide upon request. As for everything else, you can find here!
+
+I also happen to enjoy teaching software engineering to others. You can find some of my related work on that on my Notion page [here](https://www.notion.so/Docs-d0a7a9049b5949f9924693a110d79158).
+
+# Current Work
+I am currently working on bringing a social app startup idea to life. Sign up for updates on that here: https://wavesocial.framer.ai/
 
 # Project Demos
 Here are links to some of my smaller web dev project demos.
