@@ -1,7 +1,7 @@
 # Introduction
 My name is Edward, and I am a recent computer science graduate from UC Davis who specializes in full-stack web dev. My passion lies in software engineering and entrepreneurship. 
 
-I also do lectures on software engineering topics because I think it's a topic that's often undertaught. You can find some of my notes for that content [here](https://www.notion.so/Docs-d0a7a9049b5949f9924693a110d79158).
+I also do lectures on software engineering topics that I think are often undertaught. You can find some of my notes for that content [here](https://www.notion.so/Docs-d0a7a9049b5949f9924693a110d79158).
 
 # Current Work
 I am currently working on bringing a social app startup idea to life. Sign up for updates on that here: https://wavesocial.framer.ai/
