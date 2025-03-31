@@ -10,7 +10,7 @@ I'm also currently running an agency that creates full-stack websites for startu
 
 ## Web Dev Repos
 - https://github.com/edjohn/cs50w
-- (I'd put more here but the rest of my really good projects are done for clients, so they're private...)
+- (I'd love to put more here but the rest of my projects are done for clients, so they're private...)
 
 ## Mobile Dev Repos
 - https://github.com/edjohn/cs50-android
